@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: lighter
+Specification-Vendor: klimooss123
+Specification-Version: 1
+Implementation-Title: Lighter
+Implementation-Version: 0.1
+Implementation-Vendor: klimooss123
+Implementation-Timestamp: 2024-03-21T22:22:41+0200
+
